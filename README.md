@@ -7,7 +7,7 @@ A tiny smart keychain built on the **ESP32-C3 Super Mini** and a **0.96" SSD1306
 Made by [TechWithPi](https://www.youtube.com/@TechWithPi1)
 
 <p align="center">
-  <img src="images/01-hero.jpg" alt="Robot Eye Keychain" width="600">
+  <img src="images/IMG_20261027_153825_794.jpg" alt="Robot Eye Keychain" width="600">
 </p>
 
 ---

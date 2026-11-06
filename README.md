@@ -181,7 +181,7 @@ Open `keychain_eye.ino`, select your port and upload.
 
 ## 📺 Video
 
-Watch the full build on YouTube: **[add link]**
+Watch the full build on YouTube: **[https://youtu.be/l_LuNzZHJc0?si=C5BJ2xxqcJXkOHtR]**
 
 ## 🙌 Credits
 

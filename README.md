@@ -64,7 +64,7 @@ An animation plays every **5 seconds**. All choices (photo animation, robot face
 
 | | |
 |---|---|
-| <img src="images/IMG_20261031_155447_096.jpg" alt="Finished keychain" width="320"><br>**Finished keychain** | <img src="images/02-wiring.jpg" alt="Wiring" width="320"><br>**Wiring** |
+| <img src="images/IMG_20261031_155447_096.jpg" alt="Finished keychain" width="320"><br>**Finished keychain** | <img src="images/IMG_20261031_155446_996.jpg" alt="Wiring" width="320"><br>**Wiring** |
 | <img src="images/03-web-ui.png" alt="Web page" width="320"><br>**Web page on phone** | <img src="images/04-photo-on-oled.jpg" alt="Photo on OLED" width="320"><br>**Photo on the OLED** |
 
 > Add your 4 photos in an `images/` folder with these exact names: `01-hero.jpg`, `02-wiring.jpg`, `03-web-ui.png`, `04-photo-on-oled.jpg`.

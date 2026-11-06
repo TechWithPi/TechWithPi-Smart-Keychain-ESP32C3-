@@ -189,6 +189,13 @@ Made by **TechWithPi**. Libraries: Adafruit GFX and Adafruit SSD1306.
 
 If this helped, give the repo a ⭐ and subscribe to the channel.
 
+
 ## 📄 License
 
-MIT License. Add a `LICENSE` file to your repo.
+Copyright © 2026 TechWithPi. All Rights Reserved.
+
+This project is provided for educational and personal viewing purposes only.
+
+Commercial use, redistribution, modification for commercial purposes, manufacturing, or selling of this project or its derivatives is not permitted without prior written permission from TechWithPi.
+
+For commercial licensing or permissions, please contact TechWithPi.

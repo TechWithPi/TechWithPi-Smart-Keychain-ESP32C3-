@@ -109,7 +109,7 @@ No resistor is needed for the button, the code uses the internal pull-up. Do not
 `WiFi`, `WebServer` and `Preferences` come with the ESP32 Arduino core.
 
 ### 2. Arduino IDE settings
-- Board: **ESP32C3 Dev Module**
+- Board: **ESP32C3 Super mini **
 - USB CDC On Boot: **Enabled**
 
 ### 3. Upload
@@ -170,6 +170,15 @@ Open `keychain_eye.ino`, select your port and upload.
 | Charging is slow while the screen is on | Put the device in Standby while charging |
 
 ---
+
+Discover Easy, Affordable, and Reliable PCB Layout with JLCPCB!
+
+Register now to get $123 in new customer coupons: https://jlcpcb.com/?from=TechWithPi
+
+Special Deal: Get a $105 coupon for JLCPCB PCB layout services: https://jlcpcb.com/promotion/1776849103?from=105_TechWithPi
+
+#JLCPCB #PCBLayout
+
 
 ## 📝 Notes
 
